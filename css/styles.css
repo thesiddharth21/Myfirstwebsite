@@ -38,6 +38,7 @@ a:hover{
 
 .top-container {
   background-color: #EAF6F6;
+  margin: 0;
   position: relative;
   padding-top: 100px;
 }
@@ -49,10 +50,12 @@ a:hover{
 .bottom-container {
   background-color: #66BFBF;
   color: #11999E;
-  margin: 20px autp 20px auto;
+
   padding-top: 50px;
   padding-bottom: 20px;
-
+}
+.container-fluid{
+    margin: 20px 0;
 }
 
 .topcloud {
